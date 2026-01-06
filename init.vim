@@ -8,3 +8,5 @@ call plug#end()
 
 set clipboard+=unnamedplus
 set relativenumber
+set ts=4
+set sw=4
